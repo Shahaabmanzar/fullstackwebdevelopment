@@ -7,4 +7,6 @@ JAVASCRIPT
 
 Bootstrap
 
+Sass
+
 RUBY ON RAILS
