@@ -5,4 +5,6 @@ CSS3
 
 JAVASCRIPT
 
+Bootstrap
+
 RUBY ON RAILS
