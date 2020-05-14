@@ -11,4 +11,6 @@ Sass
 
 React
 
+Redux
+
 RUBY ON RAILS
