@@ -9,4 +9,6 @@ Bootstrap
 
 Sass
 
+React
+
 RUBY ON RAILS
