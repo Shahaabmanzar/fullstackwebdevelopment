@@ -1,0 +1,1 @@
+/*theres no use of javasacript file the program will completley use html text*/
